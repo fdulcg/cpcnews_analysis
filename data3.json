@@ -1,0 +1,1300 @@
+[
+  {
+    "data": {
+      "id": "1001",
+      "idInt": 1001,
+      "name": "习近平",
+      "score": 0.2015369836695485,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 250,
+      "y": 436
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1002",
+      "idInt": 1002,
+      "name": "十八大",
+      "score": 0.02804995196926033,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 689,
+      "y": 548
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1003",
+      "idInt": 1003,
+      "name": "马克思主义",
+      "score": 0.04860710854947166,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 494,
+      "y": 724
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1004",
+      "idInt": 1004,
+      "name": "中国特色社会主义",
+      "score": 0.06724303554274735,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 404,
+      "y": 160
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1005",
+      "idInt": 1005,
+      "name": "中国梦",
+      "score": 0.056292026897214215,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 891,
+      "y": 161
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1006",
+      "idInt": 1006,
+      "name": "民生",
+      "score": 0.022862632084534103,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 997,
+      "y": 251
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1007",
+      "idInt": 1007,
+      "name": "民主政治",
+      "score": 0.0013448607108549472,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 792,
+      "y": 454
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1008",
+      "idInt": 1008,
+      "name": "依法治国",
+      "score": 0.01095100864553314,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 221,
+      "y": 672
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1009",
+      "idInt": 1009,
+      "name": "文化强国",
+      "score": 0.004418828049951969,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 665,
+      "y": 485
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1010",
+      "idInt": 1010,
+      "name": "生态文明",
+      "score": 0.007684918347742555,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 865,
+      "y": 692
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1011",
+      "idInt": 1011,
+      "name": "从严治党",
+      "score": 0.018635926993275695,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 303,
+      "y": 508
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1012",
+      "idInt": 1012,
+      "name": "中华民族伟大复兴",
+      "score": 0.029971181556195964,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 171,
+      "y": 945
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1013",
+      "idInt": 1013,
+      "name": "十八届三中全会",
+      "score": 0.008069164265129682,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 150,
+      "y": 309
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1014",
+      "idInt": 1014,
+      "name": "共产党",
+      "score": 0.043611911623439,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 418,
+      "y": 291
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1015",
+      "idInt": 1015,
+      "name": "党中央",
+      "score": 0.031892411143131606,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 852,
+      "y": 629
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1016",
+      "idInt": 1016,
+      "name": "中央军委",
+      "score": 0.005571565802113353,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 730,
+      "y": 173
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1017",
+      "idInt": 1017,
+      "name": "中央党校",
+      "score": 0.0026897214217098944,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 229,
+      "y": 568
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1018",
+      "idInt": 1018,
+      "name": "党建思想",
+      "score": 0.0019212295869356388,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 541,
+      "y": 553
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1019",
+      "idInt": 1019,
+      "name": "严肃党内政治生活",
+      "score": 0.004610951008645533,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 881,
+      "y": 472
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1020",
+      "idInt": 1020,
+      "name": "压倒性态势",
+      "score": 0.0009606147934678194,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 336,
+      "y": 914
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1021",
+      "idInt": 1021,
+      "name": "总书记",
+      "score": 0.18751200768491835,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 240,
+      "y": 806
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1022",
+      "idInt": 1022,
+      "name": "改革开放",
+      "score": 0.018059558117195004,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 166,
+      "y": 561
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1023",
+      "idInt": 1023,
+      "name": "全面建成小康社会",
+      "score": 0.01287223823246878,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 457,
+      "y": 614
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1024",
+      "idInt": 1024,
+      "name": "统筹推进",
+      "score": 0.0026897214217098944,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 437,
+      "y": 515
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1025",
+      "idInt": 1025,
+      "name": "五位一体",
+      "score": 0.001536983669548511,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 286,
+      "y": 860
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1026",
+      "idInt": 1026,
+      "name": "三严三实",
+      "score": 0.02382324687800192,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 315,
+      "y": 521
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1027",
+      "idInt": 1027,
+      "name": "四个全面",
+      "score": 0.0023054755043227667,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 877,
+      "y": 785
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1028",
+      "idInt": 1028,
+      "name": "文化自信",
+      "score": 0.017098943323727186,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 358,
+      "y": 616
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1029",
+      "idInt": 1029,
+      "name": "制度自信",
+      "score": 0.008837656099903939,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 327,
+      "y": 895
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1030",
+      "idInt": 1030,
+      "name": "和平合作",
+      "score": 0.0005763688760806917,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 513,
+      "y": 958
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1031",
+      "idInt": 1031,
+      "name": "开放包容",
+      "score": 0.0013448607108549472,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 223,
+      "y": 872
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1032",
+      "idInt": 1032,
+      "name": "互学互鉴",
+      "score": 0.0007684918347742555,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 444,
+      "y": 388
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1033",
+      "idInt": 1033,
+      "name": "互利共赢",
+      "score": 0.001729106628242075,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 413,
+      "y": 693
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1034",
+      "idInt": 1034,
+      "name": "历史思维",
+      "score": 0.0007684918347742555,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 492,
+      "y": 417
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1035",
+      "idInt": 1035,
+      "name": "正确义利观",
+      "score": 0.0007684918347742555,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 871,
+      "y": 875
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1036",
+      "idInt": 1036,
+      "name": "全面推进依法治国",
+      "score": 0.00345821325648415,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 225,
+      "y": 169
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1037",
+      "idInt": 1037,
+      "name": "脱贫攻坚",
+      "score": 0.013064361191162345,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 612,
+      "y": 962
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1038",
+      "idInt": 1038,
+      "name": "新型大国关系",
+      "score": 0.0005763688760806917,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 434,
+      "y": 197
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1039",
+      "idInt": 1039,
+      "name": "亲诚惠容",
+      "score": 0.00019212295869356388,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 763,
+      "y": 772
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1040",
+      "idInt": 1040,
+      "name": "全面深化改革",
+      "score": 0.021517771373679155,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 191,
+      "y": 709
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1041",
+      "idInt": 1041,
+      "name": "全面从严治党",
+      "score": 0.011719500480307397,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 842,
+      "y": 547
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1042",
+      "idInt": 1042,
+      "name": "严以修身",
+      "score": 0.0024975984630163303,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 738,
+      "y": 591
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1043",
+      "idInt": 1043,
+      "name": "严以用权",
+      "score": 0.0026897214217098944,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 301,
+      "y": 238
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1044",
+      "idInt": 1044,
+      "name": "严以律己",
+      "score": 0.0026897214217098944,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 184,
+      "y": 584
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1045",
+      "idInt": 1045,
+      "name": "谋事要实",
+      "score": 0.0026897214217098944,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 649,
+      "y": 354
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1046",
+      "idInt": 1046,
+      "name": "创业要实",
+      "score": 0.0024975984630163303,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 685,
+      "y": 233
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1047",
+      "idInt": 1047,
+      "name": "做人要实",
+      "score": 0.0024975984630163303,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 262,
+      "y": 572
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1048",
+      "idInt": 1048,
+      "name": "两个一百年",
+      "score": 0.007108549471661864,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 556,
+      "y": 882
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1049",
+      "idInt": 1049,
+      "name": "四风",
+      "score": 0.011335254562920269,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 188,
+      "y": 219
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1050",
+      "idInt": 1050,
+      "name": "把权力关进制度的笼子里",
+      "score": 0.0011527377521613833,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 340,
+      "y": 652
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1051",
+      "idInt": 1051,
+      "name": "制度的笼子",
+      "score": 0.0024975984630163303,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 378,
+      "y": 228
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1052",
+      "idInt": 1052,
+      "name": "三个代表",
+      "score": 0.0023054755043227667,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 913,
+      "y": 170
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1053",
+      "idInt": 1053,
+      "name": "五水共治",
+      "score": 0.00019212295869356388,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 918,
+      "y": 943
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1054",
+      "idInt": 1054,
+      "name": "五措并举",
+      "score": 0.00019212295869356388,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 714,
+      "y": 271
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1055",
+      "idInt": 1055,
+      "name": "三改一拆",
+      "score": 0.00019212295869356388,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 305,
+      "y": 609
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1056",
+      "idInt": 1056,
+      "name": "三个表率",
+      "score": 0.0013448607108549472,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 347,
+      "y": 592
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1057",
+      "idInt": 1057,
+      "name": "零容忍",
+      "score": 0.0021133525456292026,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 366,
+      "y": 798
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1058",
+      "idInt": 1058,
+      "name": "党的领导",
+      "score": 0.025936599423631124,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 911,
+      "y": 227
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1059",
+      "idInt": 1059,
+      "name": "社会主义法治国家",
+      "score": 0.0019212295869356388,
+      "query": true,
+      "gene": true
+    },
+    "position": {
+      "x": 939,
+      "y": 999
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  }
+]
