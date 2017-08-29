@@ -14,3 +14,7 @@ cosejs/data3.json  --Data after processing and write into a json file
 cosejs/index.html  -- Main html
 
 cosejs/show.py  -- bottle python file to build this webpage on server.
+
+## Run Server
+python ./cosejs/show.py
+visit localhost:8080
